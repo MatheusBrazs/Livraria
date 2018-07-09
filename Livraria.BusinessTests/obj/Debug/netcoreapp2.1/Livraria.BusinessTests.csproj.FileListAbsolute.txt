@@ -1,0 +1,11 @@
+C:\Users\mathe\Desktop\Livraria\Livraria.BusinessTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mathe\Desktop\Livraria\Livraria.BusinessTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mathe\Desktop\Livraria\Livraria.BusinessTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mathe\Desktop\Livraria\Livraria.BusinessTests\bin\Debug\netcoreapp2.1\Livraria.BusinessTests.deps.json
+C:\Users\mathe\Desktop\Livraria\Livraria.BusinessTests\bin\Debug\netcoreapp2.1\Livraria.BusinessTests.runtimeconfig.json
+C:\Users\mathe\Desktop\Livraria\Livraria.BusinessTests\bin\Debug\netcoreapp2.1\Livraria.BusinessTests.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\Livraria\Livraria.BusinessTests\bin\Debug\netcoreapp2.1\Livraria.BusinessTests.dll
+C:\Users\mathe\Desktop\Livraria\Livraria.BusinessTests\obj\Debug\netcoreapp2.1\Livraria.BusinessTests.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\Livraria\Livraria.BusinessTests\obj\Debug\netcoreapp2.1\Livraria.BusinessTests.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Livraria\Livraria.BusinessTests\obj\Debug\netcoreapp2.1\Livraria.BusinessTests.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Livraria\Livraria.BusinessTests\obj\Debug\netcoreapp2.1\Livraria.BusinessTests.AssemblyInfo.cs

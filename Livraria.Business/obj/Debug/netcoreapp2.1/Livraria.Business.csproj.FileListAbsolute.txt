@@ -1,0 +1,12 @@
+C:\Users\mathe\Desktop\Livraria\Livraria.Business\bin\Debug\netcoreapp2.1\Livraria.Business.deps.json
+C:\Users\mathe\Desktop\Livraria\Livraria.Business\bin\Debug\netcoreapp2.1\Livraria.Business.dll
+C:\Users\mathe\Desktop\Livraria\Livraria.Business\bin\Debug\netcoreapp2.1\Livraria.Business.pdb
+C:\Users\mathe\Desktop\Livraria\Livraria.Business\bin\Debug\netcoreapp2.1\Livraria.Repository.dll
+C:\Users\mathe\Desktop\Livraria\Livraria.Business\bin\Debug\netcoreapp2.1\Livraria.Repository.pdb
+C:\Users\mathe\Desktop\Livraria\Livraria.Business\obj\Debug\netcoreapp2.1\Livraria.Business.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\Livraria\Livraria.Business\obj\Debug\netcoreapp2.1\Livraria.Business.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Livraria\Livraria.Business\obj\Debug\netcoreapp2.1\Livraria.Business.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Livraria\Livraria.Business\obj\Debug\netcoreapp2.1\Livraria.Business.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Livraria\Livraria.Business\obj\Debug\netcoreapp2.1\Livraria.Business.csproj.CopyComplete
+C:\Users\mathe\Desktop\Livraria\Livraria.Business\obj\Debug\netcoreapp2.1\Livraria.Business.dll
+C:\Users\mathe\Desktop\Livraria\Livraria.Business\obj\Debug\netcoreapp2.1\Livraria.Business.pdb

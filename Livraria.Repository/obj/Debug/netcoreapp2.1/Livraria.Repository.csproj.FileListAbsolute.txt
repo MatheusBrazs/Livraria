@@ -1,0 +1,9 @@
+C:\Users\mathe\Desktop\Livraria\Livraria.Repository\bin\Debug\netcoreapp2.1\Livraria.Repository.deps.json
+C:\Users\mathe\Desktop\Livraria\Livraria.Repository\bin\Debug\netcoreapp2.1\Livraria.Repository.dll
+C:\Users\mathe\Desktop\Livraria\Livraria.Repository\obj\Debug\netcoreapp2.1\Livraria.Repository.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\Livraria\Livraria.Repository\obj\Debug\netcoreapp2.1\Livraria.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Livraria\Livraria.Repository\obj\Debug\netcoreapp2.1\Livraria.Repository.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Livraria\Livraria.Repository\obj\Debug\netcoreapp2.1\Livraria.Repository.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Livraria\Livraria.Repository\bin\Debug\netcoreapp2.1\Livraria.Repository.pdb
+C:\Users\mathe\Desktop\Livraria\Livraria.Repository\obj\Debug\netcoreapp2.1\Livraria.Repository.dll
+C:\Users\mathe\Desktop\Livraria\Livraria.Repository\obj\Debug\netcoreapp2.1\Livraria.Repository.pdb
